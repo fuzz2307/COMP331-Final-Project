@@ -34,14 +34,13 @@ Dataset Name: Adult Income Dataset
 
 File Used: adult.data
 
-Number of Records: ~32,000
+Number of Records: 32560
 
 Number of Attributes: 14 + 1 target label
 
 Target Variable:
 
-<=50K
-
+<=50K 
 >50K
 
 This dataset represents census data and is commonly used in data mining and machine learning research.
