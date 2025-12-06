@@ -75,7 +75,7 @@ Microsoft Excel (data inspection, filtering, and searching)
    
    The education column mixes labels like:
 
-   Bachelors, Masters, and also 11th, 9th
+   Bachelors, Masters, and also 13th, 14th
 
    capital-gain and capital-loss fields show:
    
