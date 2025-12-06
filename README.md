@@ -64,7 +64,7 @@ Microsoft Excel (data inspection, filtering, and searching)
    
    native-country
    
-   A decent portion (between 7–10%) of the dataset contains missing values
+  About 5–6% of the dataset contains missing values in key attributes such as workclass and occupation, while roughly 2% of records are missing native-country information.
    
    These missing values affect model accuracy and can introduce bias if not handled properly
    
